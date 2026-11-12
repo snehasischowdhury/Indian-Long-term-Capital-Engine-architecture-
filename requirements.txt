@@ -1,0 +1,14 @@
+# Core Quantitative & Data Handling
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.12.0
+
+# Database & Validation
+SQLAlchemy>=2.0.25
+alembic>=1.13.1
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+
+# Testing & Utilities
+pytest>=8.1.0
+python-dotenv>=1.0.1
